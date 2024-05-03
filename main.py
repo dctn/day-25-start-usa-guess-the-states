@@ -42,7 +42,7 @@ score = 0
 # def score_func(score_parameter):
 #     score_parameter += 1
     # return score
-
+#
 
 # looping program
 game_on = True
