@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e8ed32-3ff9-4c5e-a565-528d5862a97e" name="Changes" comment="GUESS THE U.S.A STATES PROJECTS." />
+    <list default="true" id="26e8ed32-3ff9-4c5e-a565-528d5862a97e" name="Changes" comment="GUESS THE U.S.A STATES PROJECTS FINISHED">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unguessed states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/unguessed states.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,18 +28,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.main_1.executor": "Run",
-    "Python.squirrel_main.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "G:/pycharm/files/day-25-start/main.py",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.squirrel_main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/pycharm/files/day-25-start/main.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\pycharm\files\day-25-start\Squirrel_census" />
@@ -115,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714750145834</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="GUESS THE U.S.A STATES PROJECTS.">
+      <option name="closed" value="true" />
+      <created>1714750213981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714750213981</updated>
+    </task>
+    <task id="LOCAL-00006" summary="GUESS THE U.S.A STATES PROJECTS FINISHED">
+      <option name="closed" value="true" />
+      <created>1714751955761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714751955761</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,22 +151,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GUESS THE U.S.A STATES PROJECTS" />
     <MESSAGE value="GUESS THE U.S.A STATES PROJECTS." />
-    <option name="LAST_COMMIT_MESSAGE" value="GUESS THE U.S.A STATES PROJECTS." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="GUESS THE U.S.A STATES PROJECTS FINISHED" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUESS THE U.S.A STATES PROJECTS FINISHED" />
   </component>
 </project>
